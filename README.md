@@ -1,4 +1,4 @@
-# RedNoSQL Tool V1.0 - (https://github.com/redx-player/rednosql)
+# RedNoSQL Tool V1.0 - [RedNoSQL](https://github.com/redx-player/rednosql)
 
 This tool was designed to find and detect nosql injection in any form
 <br>by trying random payloads and comparing the results with default response length (This tool is in progress)
